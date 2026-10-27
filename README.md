@@ -12,7 +12,7 @@ Project Description
 
 For this project, I created a visualization of the constellations Ursa Major and Cassiopeia in the night sky with mountains and distant stars. 
 
-![Screenshot of Project](screenshot.png)
+<img width="800" height="501" alt="Screenshot 2026-10-26 at 10 14 29 PM" src="https://github.com/user-attachments/assets/042119ea-6086-4950-bbd1-5aec19a3032f" />
 
 Technical Achievement Description
 ---
@@ -25,7 +25,7 @@ Design Achievement Description
 
 Sources
 ---
-General understanding of d3: https://lucidar.me/en/d3.js/part-05-create-svg-and-draw-a-circle/, https://d3js.org/getting-started
-To add an svg: https://d3js.org/getting-started#d3-in-vanilla-html
-To add a rectangle: https://observablehq.com/@d3/bar-chart/2, https://d3-graph-gallery.com/graph/shape.html
-To add a circle: https://d3-graph-gallery.com/graph/shape.html
+- General understanding of d3: https://lucidar.me/en/d3.js/part-05-create-svg-and-draw-a-circle/, https://d3js.org/getting-started
+- To add an svg: https://d3js.org/getting-started#d3-in-vanilla-html
+- To add a rectangle: https://observablehq.com/@d3/bar-chart/2, https://d3-graph-gallery.com/graph/shape.html
+- To add a circle: https://d3-graph-gallery.com/graph/shape.html
